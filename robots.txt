@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://varya-p.github.io/al-folio/sitemap.xml
+Sitemap: https://varya-p.github.io/sitemap.xml
