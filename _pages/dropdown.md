@@ -1,9 +1,9 @@
 ---
 layout: page
-title: changed
-nav: true
-nav_order: 6
-dropdown: true
+title: cv
+nav: false
+nav_order: 1
+dropdown: false
 children: 
     - title: publications
       permalink: /publications/
